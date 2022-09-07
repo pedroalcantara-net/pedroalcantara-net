@@ -1,6 +1,6 @@
 - 👋 Oi, Eu sou o @pedroalcantara-net
 - 👀 Desenvolvedor .NET, mas querendo aprender novas tecnologias
-- 🌱 Estou estuando .NET, Angular e AngularJS
+- 🌱 Estou estudando .NET, Angular e AngularJS
 
 <!---
 pedroalcantara-net/pedroalcantara-net is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
