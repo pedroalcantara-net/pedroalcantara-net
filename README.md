@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Pedro (pedroalcantara-net)</h1>
+<h1>Hi 👋, I'm Pedro <i>(pedroalcantara-net)</i></h1>
 <h3>.NET Developer wannabe;</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedroalcantara-net&label=Profile%20views&color=0e75b6&style=flat" alt="pedroalcantara-net" /> </p>
 
